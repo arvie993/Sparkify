@@ -9,6 +9,8 @@ informed decisions on behalf of the company.
 
 The database schema will be a star schema and will contain a **fact table (songplays)** and **four dimension tables (songs, artists, time, users)**
 
+![Database schema!](https://github.com/arvie993/Sparkify/blob/main/Sparkify%20Database%20Schema.png)
+
 # Python scripts
 
 There are a total of 5 python scripts that are executed for this project.
