@@ -82,6 +82,3 @@ All python scripts can be run on the terminal. Scripts can be run by using the c
 2. Run etl.py will contain the functions that will read/process the JSON files from their respective directories and insert the data into the appropriate tables.
 3. Use the test.ipynb notebook to see if the data has been inserted properly
 
-
-# Conclusion
-Want to work on more projects similar to this one!
