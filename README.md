@@ -83,4 +83,5 @@ All python scripts can be run on the terminal. Scripts can be run by using the c
 3. Use the test.ipynb notebook to see if the data has been inserted properly
 
 
-
+# Conclusion
+Want to work on more projects similar to this one!
